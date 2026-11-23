@@ -1,0 +1,8 @@
+{
+  "name": "yt-dlp",
+  "version": "1.0.0",
+  "description": "Use the yt-dlp command-line downloader: pick formats and quality, extract audio, get subtitles, download parts or playlists, name and sort output files, and fix common errors. Unofficial; not made or endorsed by the yt-dlp project.",
+  "repository": "https://github.com/Achi-Akira/yt-dlp",
+  "license": "Unlicense",
+  "keywords": ["yt-dlp", "video", "audio", "download", "subtitles", "ffmpeg", "cli"]
+}
